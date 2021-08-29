@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DebSofia
-- 👀 I’m interested in reading, music, recently coding!
-- 🌱 I’m currently learning front end development
+- 👀 I’m interested in reading, music, recently codding!
+- 🌱 I’m currently learning frontEnd development
 - 💞️ I’m looking to collaborate on beginners projects
 - 📫 How to reach me: debsofiasilva@gmail.com
 
